@@ -1,0 +1,16 @@
+google.com
+*.xxx
+www.google.com
+w3.*.*
+*sex*.c*m
+sex.*
+*.*
+s*x.*
+# don't block this one
+!porn.net
+porn.*.*
+porn.*
+p*rn.*
+!testing.com
+*.*o*
+*prn*.*

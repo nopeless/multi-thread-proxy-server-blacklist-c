@@ -1,13 +1,7 @@
 /*
- * proxy.c - CS:APP Web proxy
+ * proxy.c
  *
- * TEAM MEMBERS:  put your name(s) and e-mail addresses here
- *     Howard the Duck, howie@duck.sewanee.edu
- *     James Q. Pleebus, pleebles@q.sewanee.edu
- *
- * IMPORTANT: Give a high level description of your code here. You
- * must also provide a header comment at the beginning of each
- * function that describes what that function does.
+ * created by nopeless
  */
 #include <stdio.h>
 #include <string.h>

@@ -1,6 +1,14 @@
 
 # Proxy server
 
+Learning how to create multi threaded applications
+
+Limitations:
+ - Only GET request possible
+ - Inefficient implementation for blocked page
+
+Here are some libraries that I have created
+
 ## BigBoi
 
 A simple doubling capacity rope structure for logging strings and appending to buffers
@@ -142,6 +150,9 @@ valgrind --leak-check=full\
   --track-origins=yes\
   --log-file=valgrind.log \
   ./a.out
+
+# run the request
+curl --proxy http://localhost:26180 asdfsf.xxx
 ```
 
 > The program catches `^C` and will exit gracefully. Press `^C` twice to force exit
